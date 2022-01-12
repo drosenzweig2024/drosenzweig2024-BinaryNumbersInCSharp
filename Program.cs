@@ -6,7 +6,7 @@ namespace drosenzweig2024_BinaryNumbersInCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
